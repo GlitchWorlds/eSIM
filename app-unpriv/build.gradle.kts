@@ -20,7 +20,7 @@ configure<ApplicationExtension> {
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "im.angry.easyeuicc"
+        applicationId = "com.glitchworlds.esim"
         minSdk = 28
         targetSdk = 37
 

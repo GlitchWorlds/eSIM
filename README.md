@@ -1,3 +1,10 @@
+> **Fork notice.** This repository is a modified fork of
+> [OpenEUICC](https://github.com/estkme-group/openeuicc) by PeterCxy and
+> contributors, published under the name **eSIM**. It remains licensed under
+> GNU GPL v3 (see [LICENSE](LICENSE)). The list of changes is in
+> [NOTICE](NOTICE). This fork is not affiliated with or endorsed by the
+> upstream project.
+
 <img src="https://gitea.angry.im/PeterCxy/OpenEUICC/media/branch/master/art/OpenEUICCBG.svg" width="512" height="300">
 
 A fully free and open-source Local Profile Assistant implementation for Android devices.

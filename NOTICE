@@ -1,0 +1,27 @@
+eSIM
+====
+
+This repository is a modified fork of OpenEUICC / EasyEUICC.
+
+Upstream project:
+  https://github.com/estkme-group/openeuicc
+  (mirror of https://gitea.angry.im/PeterCxy/OpenEUICC)
+
+Copyright (C) PeterCxy and the OpenEUICC contributors.
+Licensed under the GNU General Public License, version 3 only (GPL-3.0-only).
+See LICENSE for the full license text. There is NO WARRANTY.
+
+Bundled submodules:
+  libs/lpac-jni/src/main/jni/lpac   - lpac, https://github.com/estkme-group/lpac
+                                      (see its LICENSES/ and REUSE.toml)
+  libs/lpac-jni/src/main/jni/cjson  - cJSON by Dave Gamble, MIT license
+
+Modifications in this fork (GlitchWorlds):
+  - Application display name changed to "eSIM" (unprivileged variant) and
+    "eSIM Privileged" (privileged variant).
+  - Unprivileged applicationId changed from im.angry.easyeuicc to
+    com.glitchworlds.esim.
+  - Added this NOTICE, AUDIT.md, and a fork notice at the top of README.md.
+
+The source code of this fork is published in this repository, as required by
+the GPL. This fork is not affiliated with or endorsed by the upstream project.
